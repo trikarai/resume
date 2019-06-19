@@ -9,7 +9,7 @@
       </p>
       <p>
         &mdash;
-        <a href="https://twitter.com/trikarai">@trikarai</a> |
+        <!-- <a href="https://twitter.com/trikarai">@trikarai</a> | -->
         <a href="https://twitter.com/trisutrisno">@TriSutrisno</a>
       </p>
     </div>

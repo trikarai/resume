@@ -1,10 +1,15 @@
 <template>
   <div id="app">
-    <div id="nav">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- web-fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet">
+    <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+      <router-link to="/resume">resume</router-link>
+    </div> -->
     <router-view/>
+
   </div>
 </template>
 
